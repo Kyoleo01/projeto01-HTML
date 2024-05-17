@@ -1,3 +1,68 @@
+
 body{
-    background-color: grey;
+    background-image: url('fundotextoti.jpg');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+}
+
+.cont1{
+
+    color: whitesmoke
+    
+}
+
+.container1{
+
+    background-image: url('theisle.png');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+    color:rgb(238, 43, 9)
+
+}
+
+.fundo{
+
+    background-image: url('fundotextoti.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container2{
+
+    background-image: url('theisle.png');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+    color:rgb(238, 43, 9)
+}
+
+.container3{
+
+    background-image: url('theisle.png');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+    color:rgb(238, 43, 9)
+}
+
+.container4{
+
+    background-image: url('theisle.png');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+    color:rgb(238, 43, 9)
+}
+
+.container5{
+
+    background-image: url('theisle.png');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+    color:rgb(238, 43, 9)
+}
+
+.container6{
+
+    background-image: url('theisle.png');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o tamanho do corpo */
+    background-position: center;
+    color:rgb(238, 43, 9)
 }
